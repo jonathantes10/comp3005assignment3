@@ -13,7 +13,7 @@ Step 1:
 ('Jim', 'Beam', 'jim.beam@example.com', '2023-09-02');"
 
 Step 2:
-# using the code provided, run the main function.
+# using the code provided in submission, run the main function.
 
 
 Video for demonstration: https://youtu.be/0LDyVXZfwEE
